@@ -54,3 +54,11 @@ D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\StorePage.baml
 D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\ProgressBarStyles.baml
 D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.exe
 D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.pdb
+D:\vs projects\RDEpicGames\epicRD\bin\Release\epicRD.exe.config
+D:\vs projects\RDEpicGames\epicRD\bin\Release\epicRD.exe
+D:\vs projects\RDEpicGames\epicRD\bin\Release\epicRD.pdb
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\ButtonStyle.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.g.resources
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.Properties.Resources.resources
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.csproj.GenerateResource.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.csproj.CoreCompileInputs.cache

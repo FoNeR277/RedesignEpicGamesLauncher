@@ -98,11 +98,44 @@
 
                 <attachedProperties:SideNavigationMenu Grid.Row="1">
                     <attachedProperties:SideNavigationMenu.MenuButtonsContainer>
-                        <attachedProperties:CheckableMenuButtons 
-                            Style="{StaticResource SideNavigationCheckableMenuButtonsStyle}"/>
+                        <StackPanel Orientation="Vertical">
+                            <attachedProperties:CheckableMenuButtons 
+                                Content="Home"
+                                Icon="{StaticResource HomeIcon}"
+                                Style="{StaticResource SideNavigationCheckableMenuButtonsStyle}"/>
+                            <attachedProperties:CheckableMenuButtons 
+                                Content="Store"
+                                Icon="{StaticResource StoreIcon}"
+                                Style="{StaticResource SideNavigationCheckableMenuButtonsStyle}"/>
+                            <attachedProperties:CheckableMenuButtons 
+                                Content="Library"
+                                Icon="{StaticResource LibraryIcon}"
+                                Style="{StaticResource SideNavigationCheckableMenuButtonsStyle}"/>
+                            <attachedProperties:CheckableMenuButtons 
+                                Content="Unreal Engine"
+                                Icon="{StaticResource UnrealEngineIcon}"
+                                Style="{StaticResource SideNavigationCheckableMenuButtonsStyle}"/>
+                        </StackPanel>
                     </attachedProperties:SideNavigationMenu.MenuButtonsContainer>
+                    <attachedProperties:SideNavigationMenu.FooterMenuButtonsContainer>
+                        <StackPanel Orientation="Vertical">
+                            <attachedProperties:BasicMenuButtons 
+                                Content="Download"
+                                Icon="{StaticResource DownIcon}"
+                                Style="{StaticResource SideNavigationBasicMenuButtonsStyle}"/>
+                            <attachedProperties:BasicMenuButtons 
+                                Content="Settings"
+                                x:Name="SettingButton"
+                                Icon="{StaticResource SettingsIcon}"
+                                Style="{StaticResource SideNavigationBasicMenuButtonsStyle}"
+                                Click="SettingButton_OnClick"/>
+                            <attachedProperties:BasicMenuButtons 
+                                Content="Offline"
+                                Icon="{StaticResource OfflineIcon}"
+                                Style="{StaticResource SideNavigationBasicMenuButtonsStyle}"/>
+                        </StackPanel>
+                    </attachedProperties:SideNavigationMenu.FooterMenuButtonsContainer>
                 </attachedProperties:SideNavigationMenu>
-               
             </Grid>
         </Grid>
     </Grid>

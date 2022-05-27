@@ -144,8 +144,8 @@
 
                         <ContentPresenter Content="{TemplateBinding MenuButtonsContainer}"/>
 
-                        <!--<ContentPresenter Grid.Row="1"
-                                          Content="{TemplateBinding FooterMenuButtonContainer}"/>-->
+                        <ContentPresenter Grid.Row="1"
+                                          Content="{TemplateBinding FooterMenuButtonsContainer}"/>
                     </Grid>
                 </ControlTemplate>
             </Setter.Value>
@@ -222,4 +222,52 @@
             </Setter.Value>
         </Setter>
     </Style>
+
+    <Style x:Key="SideNavigationBasicMenuButtonsStyle"
+           TargetType="{x:Type attachedProperties:BasicMenuButtons}">
+
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="Foreground" Value="{StaticResource IconInactiveBrush}"/>
+        <Setter Property="Height" Value="68"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type attachedProperties:BasicMenuButtons}">
+                    <Border Background="{TemplateBinding Background}"
+                            BorderThickness="{TemplateBinding BorderThickness}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="76"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Path Name="Icon"  
+                              Fill="{TemplateBinding Foreground}"
+                              Data="{TemplateBinding Icon}"
+                              HorizontalAlignment="Right"
+                              VerticalAlignment="Center"
+                              Width="23"/>
+
+                            <TextBlock Name="Text"
+                                   Text="{TemplateBinding Content}"
+                                   Grid.Column="1"
+                                   TextWrapping="Wrap"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="36,0,0,0"/>
+                        </Grid>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Icon" Property="Fill" Value="{StaticResource IconActiveBrush}"/>
+                            <Setter TargetName="Text" Property="Foreground" Value="{StaticResource CaptionFontBrush}"/>
+                        </Trigger>
+                        
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
 </ResourceDictionary>

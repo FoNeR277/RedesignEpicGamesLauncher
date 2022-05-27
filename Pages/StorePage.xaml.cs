@@ -33,5 +33,14 @@ namespace epicRD.Pages
                     new Uri("../Pages/SignInPage.xaml", UriKind.RelativeOrAbsolute));
             }
         }
+
+        private void SettingButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            if (Application.Current.MainWindow != null)
+            {
+                ((MainWindow)Application.Current.MainWindow).MainFrame.Navigate(
+                    new Uri("../Pages/SettingsPage.xaml", UriKind.RelativeOrAbsolute));
+            }
+        }
     }
 }
