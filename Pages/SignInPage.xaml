@@ -131,10 +131,11 @@
         </Border>
         <Button Content="{StaticResource SettingsIcon}"
                 FontSize="14"
+                x:Name="SettingsButton"
                 HorizontalAlignment="Left"
                 Margin="39, 0, 0, 35"
                 VerticalAlignment="Bottom"
-                Click="Button_Click">
+                Click="SettingsButton_OnClick">
             <Button.Style>
                 <Style TargetType="{x:Type Button}"
                        BasedOn="{StaticResource IconOnlyButtonStyle}">

@@ -106,7 +106,7 @@
                                     Click="MaximizeRestoreButton_OnClick"
                                     Content="&#xE922;"
                                     FontFamily="{StaticResource 'Segoe MDL2 Assets'}"
-                                    FontSize="11"
+                                    FontSize="14"
                                     Style="{StaticResource WindowChromeRestoreButton}"/>
 
                             <Button x:Name="ExitButton"

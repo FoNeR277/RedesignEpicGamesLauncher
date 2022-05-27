@@ -37,5 +37,14 @@ namespace epicRD.Pages
         {
             ((MainWindow)Application.Current.MainWindow).MainFrame.Navigate(new Uri("../Pages/SettingsPage", UriKind.RelativeOrAbsolute));
         }
+
+        private void SettingsButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            if (Application.Current.MainWindow != null)
+            {
+                ((MainWindow)Application.Current.MainWindow).MainFrame.Navigate(
+                    new Uri("../Pages/SettingsPage.xaml", UriKind.RelativeOrAbsolute));
+            }
+        }
     }
 }
