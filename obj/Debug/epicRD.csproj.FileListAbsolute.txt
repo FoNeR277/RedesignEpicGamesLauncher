@@ -34,3 +34,39 @@ C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Debug\Pages\SettingsPage.g.cs
 C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Debug\Pages\SettingsPage.baml
 C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Debug\Pages\StorePage.g.cs
 C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Debug\Pages\StorePage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.csproj.AssemblyReference.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.csproj.SuggestedBindingRedirects.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Resources\Icons.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\Colors.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\Fonts.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\IconsStyle.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\Window.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\MainWindow.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\LoadingPage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\PreparingToLaunchStore.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\SettingsPage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\SignInPage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\StorePage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\Window.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\App.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD_MarkupCompile.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD_MarkupCompile.lref
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\App.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\MainWindow.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\LoadingPage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\PreparingToLaunchStore.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\SettingsPage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\SignInPage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Pages\StorePage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\ProgressBarStyles.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.exe
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.pdb
+D:\vs projects\RDEpicGames\epicRD\bin\Debug\epicRD.exe.config
+D:\vs projects\RDEpicGames\epicRD\bin\Debug\epicRD.exe
+D:\vs projects\RDEpicGames\epicRD\bin\Debug\epicRD.pdb
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\Style\ButtonStyle.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.g.resources
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.Properties.Resources.resources
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.csproj.GenerateResource.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\epicRD.csproj.CoreCompileInputs.cache

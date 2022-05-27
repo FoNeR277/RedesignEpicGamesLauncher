@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\vs projects\RDEpicGames\epicRD\obj\Release\
+D:\vs projects\RDEpicGames\epicRD\obj\Debug\
 epicRD
 none
 false
-TRACE
+DEBUG;TRACE
 D:\vs projects\RDEpicGames\epicRD\App.xaml
 13-2119998648
 
@@ -16,5 +16,5 @@ D:\vs projects\RDEpicGames\epicRD\App.xaml
 13152784993
 MainWindow.xaml;Pages\LoadingPage.xaml;Pages\PreparingToLaunchStore.xaml;Pages\SettingsPage.xaml;Pages\SignInPage.xaml;Pages\StorePage.xaml;Resources\Icons.xaml;Style\ButtonStyle.xaml;Style\Colors.xaml;Style\Fonts.xaml;Style\IconsStyle.xaml;Style\ProgressBarStyles.xaml;Style\Window.xaml;
 
-True
+False
 

@@ -26,3 +26,31 @@ C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Release\Pages\StorePage.baml
 C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Release\Style\ProgressBarStyles.baml
 C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Release\epicRD.exe
 C:\Users\bogos\Desktop\RDEpicGames\epicRD\obj\Release\epicRD.pdb
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.csproj.AssemblyReference.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.csproj.SuggestedBindingRedirects.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Resources\Icons.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\Colors.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\Fonts.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\IconsStyle.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\Window.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\MainWindow.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\LoadingPage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\PreparingToLaunchStore.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\SettingsPage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\SignInPage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\StorePage.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\Window.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\App.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD_MarkupCompile.cache
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD_MarkupCompile.lref
+D:\vs projects\RDEpicGames\epicRD\obj\Release\App.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\MainWindow.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\LoadingPage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\PreparingToLaunchStore.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\SettingsPage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\SignInPage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Pages\StorePage.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\Style\ProgressBarStyles.baml
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.exe
+D:\vs projects\RDEpicGames\epicRD\obj\Release\epicRD.pdb
